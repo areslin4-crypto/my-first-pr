@@ -15,3 +15,7 @@ Prints `Hello, GitHub!`.
 ```bash
 python -m unittest
 ```
+
+## Docs
+
+- [Claude 任務通知介面企劃書（LINE + iMessage）](docs/notification-ui-spec.md)
